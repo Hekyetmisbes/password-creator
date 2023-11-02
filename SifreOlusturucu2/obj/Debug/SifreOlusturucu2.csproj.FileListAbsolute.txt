@@ -1,0 +1,21 @@
+C:\Users\casper\OneDrive\Masaüstü\Ders\1. Sınıf\II. Dönem\Bilgisayar Programlama II\Benim Yaptıklarım\SifreOlusturucu2\SifreOlusturucu2\bin\Debug\SifreOlusturucu2.exe.config
+C:\Users\casper\OneDrive\Masaüstü\Ders\1. Sınıf\II. Dönem\Bilgisayar Programlama II\Benim Yaptıklarım\SifreOlusturucu2\SifreOlusturucu2\bin\Debug\SifreOlusturucu2.exe
+C:\Users\casper\OneDrive\Masaüstü\Ders\1. Sınıf\II. Dönem\Bilgisayar Programlama II\Benim Yaptıklarım\SifreOlusturucu2\SifreOlusturucu2\bin\Debug\SifreOlusturucu2.pdb
+C:\Users\casper\OneDrive\Masaüstü\Ders\1. Sınıf\II. Dönem\Bilgisayar Programlama II\Benim Yaptıklarım\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.csproj.AssemblyReference.cache
+C:\Users\casper\OneDrive\Masaüstü\Ders\1. Sınıf\II. Dönem\Bilgisayar Programlama II\Benim Yaptıklarım\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\OneDrive\Masaüstü\Ders\1. Sınıf\II. Dönem\Bilgisayar Programlama II\Benim Yaptıklarım\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.Form1.resources
+C:\Users\casper\OneDrive\Masaüstü\Ders\1. Sınıf\II. Dönem\Bilgisayar Programlama II\Benim Yaptıklarım\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.Properties.Resources.resources
+C:\Users\casper\OneDrive\Masaüstü\Ders\1. Sınıf\II. Dönem\Bilgisayar Programlama II\Benim Yaptıklarım\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.csproj.GenerateResource.cache
+C:\Users\casper\OneDrive\Masaüstü\Ders\1. Sınıf\II. Dönem\Bilgisayar Programlama II\Benim Yaptıklarım\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.csproj.CoreCompileInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\Ders\1. Sınıf\II. Dönem\Bilgisayar Programlama II\Benim Yaptıklarım\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.exe
+C:\Users\casper\OneDrive\Masaüstü\Ders\1. Sınıf\II. Dönem\Bilgisayar Programlama II\Benim Yaptıklarım\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.pdb
+C:\Users\casper\OneDrive\Masaüstü\Ders\Harun\Programming\C# Projects\SifreOlusturucu2\SifreOlusturucu2\bin\Debug\SifreOlusturucu2.exe.config
+C:\Users\casper\OneDrive\Masaüstü\Ders\Harun\Programming\C# Projects\SifreOlusturucu2\SifreOlusturucu2\bin\Debug\SifreOlusturucu2.exe
+C:\Users\casper\OneDrive\Masaüstü\Ders\Harun\Programming\C# Projects\SifreOlusturucu2\SifreOlusturucu2\bin\Debug\SifreOlusturucu2.pdb
+C:\Users\casper\OneDrive\Masaüstü\Ders\Harun\Programming\C# Projects\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.csproj.AssemblyReference.cache
+C:\Users\casper\OneDrive\Masaüstü\Ders\Harun\Programming\C# Projects\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.Form1.resources
+C:\Users\casper\OneDrive\Masaüstü\Ders\Harun\Programming\C# Projects\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.Properties.Resources.resources
+C:\Users\casper\OneDrive\Masaüstü\Ders\Harun\Programming\C# Projects\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.csproj.GenerateResource.cache
+C:\Users\casper\OneDrive\Masaüstü\Ders\Harun\Programming\C# Projects\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.csproj.CoreCompileInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\Ders\Harun\Programming\C# Projects\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.exe
+C:\Users\casper\OneDrive\Masaüstü\Ders\Harun\Programming\C# Projects\SifreOlusturucu2\SifreOlusturucu2\obj\Debug\SifreOlusturucu2.pdb
